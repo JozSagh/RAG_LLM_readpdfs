@@ -1,4 +1,4 @@
-# 🚀 Local LLM for Interacting with Your Custom Documents
+# 🚀 Local LLM (RAG) for Interacting with Your Custom Documents 
 
 A local Large Language Model (LLM) project that lets you **search and interact with your own documents**.  
 
